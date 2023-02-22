@@ -1,0 +1,431 @@
+@media screen and (min-width: 501px) and (max-width: 1200px) {
+/* 1번째 영역 시작 */
+  body>#container {
+    width: 1024px;
+    height: 2732px;
+
+    background-color: #FFFFFF;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  body>#container>div:nth-child(1) {
+    position: absolute;
+    width: 1024px;
+    height: 310px;
+    left: 0px;
+    top: 0px;
+
+    background-color: #2196F3;
+  }
+
+  body>#container>div:nth-child(2) {
+    position: absolute;
+    width: 1024px;
+    height: 1054px;
+    left: 0px;
+    top: 310px;
+  }
+
+  body>#container>div:nth-child(3) {
+    position: absolute;
+    width: 1024px;
+    height: 1380px;
+    left: 0px;
+    top: 1164px;
+
+    background: #2196F3;
+  }
+
+  body>#container>div:nth-child(4) {
+    position: absolute;
+    width: 1024px;
+    height: 200px;
+    left: 0px;
+    top: 2532px;
+
+    background: #333333;
+
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(1) {
+    position: absolute;
+    width: 800px;
+    height: 15px;
+    left: 98px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(2) {
+    
+
+    display: none;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3) {
+    position: absolute;
+    width: 1024px;
+    height: 200px;
+    left: 0px;
+    top: 110px;
+
+    background: #F0F0F0;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(1) {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 23px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(2) {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 23px;
+    top: 70px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(3) {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 23px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(4) {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 23px;
+    top: 110px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(5) {
+    position: absolute;
+    width: 150px;
+    height: 15px;
+    left: 23px;
+    top: 130px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+  }
+
+  body>#container>div:nth-child(1)>div:nth-child(3)>div:nth-child(6) {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 23px;
+    top: 150px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+  }
+  /* 2번째 영역 시작 */
+  body>#container>div:nth-child(2)>div:nth-child(1) {
+    position: absolute;
+    width: 302px;
+    height: 96px;
+    left: 23px;
+    top: 229px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+
+    text-align: center;
+  }
+
+  body>#container>div:nth-child(2)>div:nth-child(2) {
+    position: absolute;
+    width: 335px;
+    height: 96px;
+    left: 23px;
+    top: 282px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+
+    text-align: center;
+    color: #2196F3;
+  }
+
+  body>#container>div:nth-child(2)>div:nth-child(3) {
+    position: absolute;
+    width: 146px;
+    height: 96px;
+    left: 23px;
+    top: 335px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+
+    text-align: center;
+    color: #2196F3;
+  }
+
+  body>#container>div:nth-child(2)>div:nth-child(4) {
+    position: absolute;
+    width: 195px;
+    height: 96px;
+    left: 23px;
+    top: 388px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+
+    text-align: center;
+    color: #2196F3;
+  }
+
+  body>#container>div:nth-child(2)>div:nth-child(5) {
+    position: absolute;
+    width: 252px;
+    height: 96px;
+    left: 23px;
+    top: 441px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+
+    text-align: center;
+  }
+
+  body>#container>div:nth-child(2)>div:nth-child(6) {
+    position: absolute;
+    width: 8px;
+    height: 14px;
+    left: 222px;
+    top: 650px;
+    font-size: 30px;
+
+    color: #2196F3;
+    transform: rotate(90deg);
+  }
+  body>#container>div:nth-child(2)>div:nth-child(7){
+    position: absolute;
+    width: 285px;
+    height: 30px;
+    left: 73px;
+    top: 717px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #2196F3;
+  }
+/* 3번째 영역 시작 */
+  body>#container>div:nth-child(3)>div:nth-child(1) {
+    position: absolute;
+    width: 191px;
+    height: 130px;
+    left: 19px;
+    top: 431px;
+
+    font-family: 'Karantina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 130px;
+    color: #FFFFFF;
+  }
+
+  body>#container>div:nth-child(3)>div:nth-child(2) {
+    position: absolute;
+    width: 225px;
+    height: 130px;
+    left: 19px;
+    top: 544px;
+
+    font-family: 'Karantina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 130px;
+    color: #FFFFFF;
+  }
+
+  body>#container>div:nth-child(3)>div:nth-child(3) {
+    position: absolute;
+    width: 286px;
+    height: 130px;
+    left: 19px;
+    top: 655px;
+
+    font-family: 'Karantina';
+    font-size: 128px;
+    line-height: 130px;
+    color: #FFFFFF;
+  }
+
+  body>#container>div:nth-child(3)>div:nth-child(4) {
+    position: absolute;
+    width: 980px;
+    height: 10px;
+    left: 19px;
+    top: 780px;
+
+    background-color: #FFFFFF;
+  }
+
+  body>#container>div:nth-child(3)>div:nth-child(5) {
+    position: absolute;
+    width: 80px;
+    height: 60px;
+    left: 327px;
+    top: 500px;
+    font-size: 120px;
+
+    color: #FFFFFF;
+  }
+/* 4번째 영역 시작 */
+  body>#container>div:nth-child(4)>div:nth-child(1) {
+    position: absolute;
+    width: 940px;
+    height: 5px;
+    left: 43px;
+    top: 50px;
+
+    background-color: #D9D9D9;
+  }
+
+  body>#container>div:nth-child(4)>div:nth-child(2) {
+
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    left: 43px;
+    top: 60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    color: #F0F0F0;
+  }
+
+  body>#container>div:nth-child(4)>div:nth-child(3) {
+
+
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 43px;
+    top: 70px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    color: #F0F0F0;
+  }
+
+  body>#container>div:nth-child(4)>div:nth-child(4) {
+
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    left: 43px;
+    top: 80px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    color: #F0F0F0;
+  }
+
+  body>#container>div:nth-child(4)>div:nth-child(5) {
+
+    position: absolute;
+    width: 300px;
+    height: 10px;
+    left: 43px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    color: #F0F0F0;
+  }
+}
